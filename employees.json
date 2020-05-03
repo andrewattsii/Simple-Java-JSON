@@ -1,0 +1,15 @@
+[{"Oreo":
+    {"Brand":"Nabisco",
+     "Type":"Regular",
+     "Category":"Desert",
+     "Nutrition":"Images/oreonutrition.jpg",
+     "Price":6.99,
+     "Picture":"Images/oreo.jpg"
+     }
+},
+{"employee":
+    {"firstName":"Brian",
+     "lastName":"Schultz",
+     "website":"example.com"
+     }
+}]
