@@ -53,7 +53,7 @@
     }
 },
 {"Chips Ahoy! Chocolate Chip":
-    {"Brand":"Nabisko",
+    {"Brand":"Nabisco",
      "Type":"Chocolate Chip Cookie Original",
      "Category":"Snack-Cookies",
      "Nutrition":"",
@@ -62,7 +62,7 @@
     }
 },
 {"Chips Ahoy! Reeses ":
-    {"Brand":"Nabisko",
+    {"Brand":"Nabisco",
      "Type":"Reeses Chocolate Chip",
      "Category":"Snack-Cookies",
      "Nutrition":"",
@@ -71,28 +71,83 @@
     }
 },
 {"Chips Ahoy! Chunky Chunky":
-    {"Brand":"Nabisko",
+    {"Brand":"Nabisco",
      "Type":"Chunky Chocolate Chip",
-     "Category":"Snack-Cookies",
-     "Nutrition":"",
-     "Price": 1.69,
-     "Picture":""
-    }
-},
-{"Animal Crackers":
-    {"Brand":"Stoffers",
-     "Type":"Animal Crackers Original",
      "Category":"Snack-Cookies",
      "Nutrition":"",
      "Price": 2.79,
      "Picture":""
     }
 },
-
-
-{"employee":
-    {"firstName":"Brian",
-     "lastName":"Schultz",
-     "website":"example.com"
+{"Animal Crackers":
+    {"Brand":"Stauffers",
+     "Type":"Animal Crackers Original",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 1.69,
+     "Picture":""
+    }
+},
+{"Animal Cookies Iced":
+    {"Brand":"Stauffers",
+     "Type":"Animal Crackers Iced",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 1.69,
+     "Picture":""
+    }
+},
+{"Mini Oreos Go Pack":
+    {"Brand":"Nabisco",
+     "Type":"Oreo Mini On The Go In Tub 3.5oz",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 1.09,
+     "Picture":""
+    }
+},
+{"Belvita":
+    {"Brand":"Nabisko",
+     "Type":"Breakfast Biscuit",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 3.29,
+     "Picture":""
+    }
+},
+{"Nutter Butter":
+    {"Brand":"Nabisco",
+     "Type":"Nutter Butter Bites 3oz",
+     "Category":"Snack-Cookie",
+     "Nutrition":"",
+     "Price": 1.09,
+     "Picture":""
+    }
+},
+{"Animal Crackers":
+    {"Brand":"Stauffers",
+     "Type":"Chocolate Animal Crackers",
+     "Category":"Snack-Cookie",
+     "Nutrition":"",
+     "Price": 1.69,
+     "Picture":""
+    }
+},
+{"Vanilla Wafers":
+    {"Brand":"Meijer",
+     "Type":"Vanilla Wafer Cookie",
+     "Category":"Snack-Cookie",
+     "Nutrition":"",
+     "Price": 2.99,
+     "Picture":""
+    }
+},
+{"Fig Newtons":
+    {"Brand":"Nabisco",
+     "Type":"Soft and Chewy Fig Cookie",
+     "Category":"Snack-Cookie",
+     "Nutrition":"",
+     "Price": 3.29,
+     "Picture":""
     }
 }]
