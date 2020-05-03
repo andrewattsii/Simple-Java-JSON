@@ -5,11 +5,20 @@
      "Nutrition":"Images/oreonutrition.jpg",
      "Price":6.99,
      "Picture":"Images/oreo.jpg"
-     }
+    }
+},
+{"Chocolate Chip Cookie":
+    {"Brand":"Keebler",
+     "Type":"Soft Batch",
+     "Category":"Desert",
+     "Nutrition":"Images/softbatchnutrition.jpg",
+     "Price": 2.69,
+     "Picture":"Images/softbatch.jpg"
+    }
 },
 {"employee":
     {"firstName":"Brian",
      "lastName":"Schultz",
      "website":"example.com"
-     }
+    }
 }]
