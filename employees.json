@@ -1,7 +1,7 @@
 [{"Oreo":
     {"Brand":"Nabisco",
      "Type":"Regular",
-     "Category":"Desert",
+     "Category":"Snack-Cookies",
      "Nutrition":"Images/oreonutrition.jpg",
      "Price":6.99,
      "Picture":"Images/oreo.jpg"
@@ -10,12 +10,86 @@
 {"Chocolate Chip Cookie":
     {"Brand":"Keebler",
      "Type":"Soft Batch",
-     "Category":"Desert",
+     "Category":"Snack-Cookies",
      "Nutrition":"Images/softbatchnutrition.jpg",
      "Price": 2.69,
      "Picture":"Images/softbatch.jpg"
     }
 },
+{"Chocolate Chip Cookie":
+    {"Brand":"Keebler",
+     "Type":"Chips Deluxe",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.79,
+     "Picture":""
+    }
+},
+{"Sugar Cookie":
+    {"Brand":"Keebler",
+     "Type":"Sandles",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.79,
+     "Picture":""
+    }
+},
+{"Fudge Sticks":
+    {"Brand":"Keebler",
+     "Type":"Fudge Sticks",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.69,
+     "Picture":""
+    }
+},
+{"Vienna Fingers":
+    {"Brand":"Keebler",
+     "Type":"Vienna Fingers",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.69,
+     "Picture":""
+    }
+},
+{"Chips Ahoy! Chocolate Chip":
+    {"Brand":"Nabisko",
+     "Type":"Chocolate Chip Cookie Original",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.79,
+     "Picture":""
+    }
+},
+{"Chips Ahoy! Reeses ":
+    {"Brand":"Nabisko",
+     "Type":"Reeses Chocolate Chip",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.79,
+     "Picture":""
+    }
+},
+{"Chips Ahoy! Chunky Chunky":
+    {"Brand":"Nabisko",
+     "Type":"Chunky Chocolate Chip",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 1.69,
+     "Picture":""
+    }
+},
+{"Animal Crackers":
+    {"Brand":"Stoffers",
+     "Type":"Animal Crackers Original",
+     "Category":"Snack-Cookies",
+     "Nutrition":"",
+     "Price": 2.79,
+     "Picture":""
+    }
+},
+
+
 {"employee":
     {"firstName":"Brian",
      "lastName":"Schultz",
